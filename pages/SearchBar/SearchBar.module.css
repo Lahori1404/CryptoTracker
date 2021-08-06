@@ -1,0 +1,18 @@
+.container{
+
+display: flex;
+padding: 2rem;
+
+
+}
+
+.search_input{
+
+    width: 40rem;
+    height: 3rem;
+    padding: 0 8px;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    
+
+}

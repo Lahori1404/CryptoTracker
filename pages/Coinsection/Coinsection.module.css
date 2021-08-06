@@ -1,0 +1,11 @@
+
+.coinSection{
+
+width: 100%;
+display: grid;
+justify-content: center;
+align-items: center;
+grid-template-columns: repeat(1,auto);
+grid-gap: 2rem;
+
+}
